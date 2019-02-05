@@ -3,15 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreemeco", "Kreemeco.csproj", "{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "horizonte", "..\horizonte\horizonte.csproj", "{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
+		Debug-win|Any CPU = Debug-win|Any CPU
+		Release-win|Any CPU = Release-win|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Debug|x86.ActiveCfg = Debug|x86
 		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Debug|x86.Build.0 = Debug|x86
 		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Release|x86.ActiveCfg = Release|x86
 		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Release|x86.Build.0 = Release|x86
+		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Debug-win|Any CPU.ActiveCfg = Debug|x86
+		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Debug-win|Any CPU.Build.0 = Debug|x86
+		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Release-win|Any CPU.ActiveCfg = Debug|x86
+		{3CA1634C-4863-4A82-B3D1-1C0A6E3CAB9F}.Release-win|Any CPU.Build.0 = Debug|x86
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Debug|x86.Build.0 = Debug|Any CPU
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Release|x86.ActiveCfg = Release|Any CPU
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Release|x86.Build.0 = Release|Any CPU
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Debug-win|Any CPU.ActiveCfg = Debug-win|Any CPU
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Debug-win|Any CPU.Build.0 = Debug-win|Any CPU
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Release-win|Any CPU.ActiveCfg = Release-win|Any CPU
+		{37DCA469-6AA8-4762-A723-CE7A66CD7E1A}.Release-win|Any CPU.Build.0 = Release-win|Any CPU
 	EndGlobalSection
 EndGlobal
